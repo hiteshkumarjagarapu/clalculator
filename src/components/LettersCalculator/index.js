@@ -29,7 +29,7 @@ class LettersCalculator extends Component {
         <div>
           <img
             src="https://assets.ccbp.in/frontend/react-js/stop-watch-with-calculator-img.png"
-            alt="stop watch"
+            alt="letters calculator"
           />
         </div>
       </div>
